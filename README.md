@@ -1,1 +1,1 @@
-# This app is a simple iOS application that retrieves school data from an API and displays it in a list. The user can search for schools by name using a custom search bar. The search results are updated dynamically as the user types in the search bar. When the user taps on a school in the list, the app displays a detail view that shows the school's name, SAT scores, and the number of test takers. The app uses SwiftUI for the user interface and includes a custom gradient background. Additionally, the app includes a function to customize the appearance of the navigation bar.
+
